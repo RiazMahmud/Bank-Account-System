@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.pdb

@@ -1,0 +1,4 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\obj\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\obj\Debug\ENTITY.pdb

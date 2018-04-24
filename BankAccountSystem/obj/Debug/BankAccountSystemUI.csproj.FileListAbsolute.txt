@@ -1,0 +1,35 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Document.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.DocumentChecker.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountRemove.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountRemove_Remove.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountStatement.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountStatement_Show.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountUpdate.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountUpdate_Update.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountUpdate_Update_Show.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountWithdraw.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_AccountWithdraw_Withdraw.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_CreateAccount.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_Withdraw_Show.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Home_Admin_Withdraw_New.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystemUI.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\UserDB.mdf
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\UserDB_log.ldf
+\\psf\Home\Documents\VS_Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.exe.config
+\\psf\Home\Documents\VS_Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.exe
+\\psf\Home\Documents\VS_Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.pdb
